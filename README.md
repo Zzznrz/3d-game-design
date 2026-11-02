@@ -4,7 +4,7 @@ Unity 3D group project for CS583. This repository currently contains the initial
 
 ## Open the project
 
-1. Install Unity Hub and Unity **6000.5.10f1**.
+1. Install Unity Hub and Unity **6000.5.9f1**.
 2. Clone this repository to your own computer.
 3. In Unity Hub, choose **Add → Add project from disk** and select the repository folder containing `Assets`, `Packages`, and `ProjectSettings`.
 4. Wait for package installation and asset import, then open `Assets/Scenes/SampleScene.unity`.
@@ -15,4 +15,4 @@ Unity 3D group project for CS583. This repository currently contains the initial
 
 ## Collaboration
 
-- Use the same Unity Editor version: **6000.5.10f1**.
+- Use the same Unity Editor version: **6000.5.9f1**.
