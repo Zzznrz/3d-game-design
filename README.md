@@ -16,3 +16,7 @@ Unity 3D group project for CS583. This repository currently contains the initial
 ## Collaboration
 
 - Use the same Unity Editor version: **6000.5.9f1**.
+
+## Updates
+
+- 2026-11-02: Added the lobby, Start button, and Inventory button.
