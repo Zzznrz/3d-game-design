@@ -115,3 +115,5 @@ InitTestScene*.unity*
 
 # Additional rules from team repository
 /UIElementsSchema/
+
+.DS_Store
