@@ -35,3 +35,4 @@ For All: The codes and tests of each system.
 ## Updates
 
 - 2026-11-02: Added the lobby, Start button, and Inventory button.
+- 2026-11-16: The items in the Inventory are displayed.
